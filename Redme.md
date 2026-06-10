@@ -1,1 +1,0 @@
-"Afford Medical Technologies"
