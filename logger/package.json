@@ -1,0 +1,7 @@
+{
+  "name": "afford-logger",
+  "version": "1.0.0",
+  "description": "Logging middleware for Affordmed Campus Notification Platform",
+  "main": "index.js",
+  "type": "commonjs"
+}
